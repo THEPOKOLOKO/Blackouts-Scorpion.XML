@@ -12,9 +12,9 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-			<child lootmax="0" lootmin="0" max="3" min="2" type="vg7_scorpion"/>
-      			<child lootmax="0" lootmin="0" max="3" min="2" type="vg7_scorpion_easyrider"/>			
-			<child lootmax="0" lootmin="0" max="2" min="1" type="vg7_scorpion_scorcher"/>
-			<child lootmax="0" lootmin="0" max="1" min="1" type="vg7_scorpion_windjammer"/>
+		<child lootmax="0" lootmin="0" max="3" min="2" type="vg7_scorpion"/>
+      		<child lootmax="0" lootmin="0" max="3" min="2" type="vg7_scorpion_easyrider"/>			
+		<child lootmax="0" lootmin="0" max="2" min="1" type="vg7_scorpion_scorcher"/>
+		<child lootmax="0" lootmin="0" max="1" min="1" type="vg7_scorpion_windjammer"/>
         </children>
     </event>
